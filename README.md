@@ -4,7 +4,7 @@
 ## :mag: The content
 In these exercises, I had to make a gossip site and put it online on Heroku.
 
-The live version is available on Heroku here : https://mxrch-the-gossip-project.herokuapp.com/
+The live version is available on Heroku here :https://gossip-thomas.herokuapp.com/
 
 ***This includes :***
 * Users,
